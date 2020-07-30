@@ -19,6 +19,8 @@
     <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
     <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
     <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
+    <Compile Include="Message\ReadGeneralReferenceRequest.cs" />
+    <Compile Include="Message\ReadGeneralReferenceResponse.cs" />
   </PropertyGroup>
 
  
